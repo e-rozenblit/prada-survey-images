@@ -12,6 +12,6 @@ Drawn for this project (October 2026) after LEAP lived-experience panel feedback
 | `mood/a/` | How are you feeling today? | Very low → Very good. Only the mouth changes. |
 | `interest/` | How interested or engaged did you feel in things today? | Not at all → Very much. The number of sparkles grows (one dashed outline, then 1, 2, 3, and 4 in a diamond), and their fill warms from outline to deep gold |
 
-All files are 56 × 56 px SVGs, drawn in dark ink (`#2b3327`) with no background. The gold in the interest sparkles only reinforces the count; the count carries the meaning, so the scale still works without colour. The survey shows images at their own size, and option labels are limited to 65 px wide.
+All files are 44 × 44 px SVGs (reduced from 56 on 2026-10-26 so five options fit in one row on phones), drawn in dark ink (`#2b3327`) with no background. The gold in the interest sparkles only reinforces the count; the count carries the meaning, so the scale still works without colour. The survey shows images at their own size, and option labels are limited to 65 px wide.
 
 The survey links to each file by URL, so **don't rename or move files** once a survey points at them. Add new versions under new names instead.
